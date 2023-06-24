@@ -1,0 +1,15 @@
+{
+  "activity":[
+    {
+      "id": 1, 
+      "title": "Create Todo App", 
+      "date"= "24 Juni 2023",
+      "list"=[
+        {
+          "id"= 1,
+          "title"= "init next app",
+        }
+      ]
+    }
+  ]
+}
